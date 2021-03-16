@@ -10,12 +10,10 @@ class ClinicaOdonto extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-
           Padding(
             padding: EdgeInsets.fromLTRB(20.0, 80.0, 0.0, 20.0),
             child: Text("Clínica odontológica", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 27)),
           ),
-          
           Padding(
             padding: EdgeInsets.fromLTRB(20.0, 0.0, 0.0, 0.0),
             child: Text("Inaugurada em 1999, a Clínica Odontológica da Unioeste serve de infraestrutura aos cursos de graduação e pós-graduação em Odontologia, onde são desenvolvidas atividades de ensino, pesquisa e extensão, proporcionando tratamento odontológico gratuito à população de Cascavel e região.\n\nCom o credenciamento do Centro de Especialidades Odontológicas (CEO), a Clínica Odontológica da Unioeste passou a fazer parte do Sistema Único de Saúde -SUS, setornando o serviço de referência em odontologia nas área de cirurgia, periodontia, endodontia, estomatogia e atendimento a pacientes com necessidades especiais de Cascavel e região.", style: TextStyle(color: Colors.white, fontSize: 18)),
