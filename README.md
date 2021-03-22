@@ -1,4 +1,4 @@
-# app_ppr
+# Aplicativo Próteses Parciais Removíveis
 
 Desenvolvimento de aplicativo educacional para próteses odontológicas
 
