@@ -1,6 +1,6 @@
 # app_ppr
 
-Aplicativo de auxílio na implantação de próteses parciais removíveis.
+Desenvolvimento de aplicativo educacional para próteses odontológicas
 
 ## Getting Started
 
